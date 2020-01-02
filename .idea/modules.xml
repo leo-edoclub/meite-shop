@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-api-entity-api/meite-shop-api-entity-api.iml" filepath="$PROJECT_DIR$/meite-shop-api-entity-api/meite-shop-api-entity-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics.iml" filepath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/meite-shop-basics-springcloud-eureka.iml" filepath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/meite-shop-basics-springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/meite-shop-basics-springcloud-zuul.iml" filepath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/meite-shop-basics-springcloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-parent.iml" filepath="$PROJECT_DIR$/meite-shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api.iml" filepath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/meite-shop-service-api-member.iml" filepath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/meite-shop-service-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/meite-shop-service-api-weixin.iml" filepath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/meite-shop-service-api-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-api-entity-api/meite-shop-service-api-weixin-entity/meite-shop-service-api-weixin-entity.iml" filepath="$PROJECT_DIR$/meite-shop-api-entity-api/meite-shop-service-api-weixin-entity/meite-shop-service-api-weixin-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-impl.iml" filepath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/meite-shop-service-member.iml" filepath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/meite-shop-service-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/meite-shop-service-weixin.iml" filepath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/meite-shop-service-weixin.iml" />
+    </modules>
+  </component>
+</project>

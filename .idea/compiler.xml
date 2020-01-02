@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="meite-shop-basics-springcloud-eureka" />
+        <module name="meite-shop-basics-springcloud-zuul" />
+        <module name="meite-shop-service-api-member" />
+        <module name="meite-shop-service-api-weixin" />
+        <module name="meite-shop-service-api-weixin-entity" />
+        <module name="meite-shop-service-member" />
+        <module name="meite-shop-service-weixin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="meite-shop-api-entity-api" target="1.8" />
+      <module name="meite-shop-basics" target="1.8" />
+      <module name="meite-shop-basics-springcloud-eureka" target="1.8" />
+      <module name="meite-shop-basics-springcloud-zuul" target="1.8" />
+      <module name="meite-shop-parent" target="1.8" />
+      <module name="meite-shop-service-api" target="1.8" />
+      <module name="meite-shop-service-api-member" target="1.8" />
+      <module name="meite-shop-service-api-weixin" target="1.8" />
+      <module name="meite-shop-service-api-weixin-entity" target="1.8" />
+      <module name="meite-shop-service-impl" target="1.8" />
+      <module name="meite-shop-service-member" target="1.8" />
+      <module name="meite-shop-service-weixin" target="1.8" />
+      <module name="meiteshopbasicsspringcloudeureka" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

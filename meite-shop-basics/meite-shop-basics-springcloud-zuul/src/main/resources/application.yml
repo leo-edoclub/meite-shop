@@ -1,0 +1,18 @@
+server:
+  port: 80
+spring:
+  application:
+    name: app-mayikt-zuul
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8100/eureka
+####网关反向代理
+zuul:
+  routes:
+    api-a:
+      path: /api-weixin/**
+      serviceId: app-mayikt-weixin
+    api-b:
+      path: /api-member/**
+      serviceId: app-mayikt-member

@@ -1,0 +1,19 @@
+server:
+  port: 8200
+spring:
+  application:
+    name: app-mayikt-weixin
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8100/eureka
+####swagger 相关配置
+swagger:
+  base-package: com.mayikt.weixin.service
+  title: SpringCloud2.x构建微服务电商项目-微信服务接口
+  description: 该项目基于SpringCloud2.x构建
+  version: 1.0
+  terms-of-service-url: www.mayikt.com
+  contact:
+    name: 王位
+    email: leo@edoclub.cn
